@@ -1,0 +1,13 @@
+# Entorno virtual
+env/
+
+# Archivos temporales y sistema
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+
+# Carpetas de imágenes generadas
+imagenes_convertidas/
+imagenes_erroneas/

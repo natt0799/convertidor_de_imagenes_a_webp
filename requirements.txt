@@ -1,0 +1,7 @@
+pillow
+tifffile
+
+'''
+Este archivo le permite a cualquier persona (o a ti en otra máquina) instalar todas las dependencias necesarias con un solo comando:
+pip install -r requirements.txt
+'''
